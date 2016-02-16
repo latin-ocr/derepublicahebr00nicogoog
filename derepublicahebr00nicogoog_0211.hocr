@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./derepublicahebr00nicogoog_0211.png"; bbox 0 0 3920 4864; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1011 267 2460 360">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1011 267 2460 360">
+     <span class='ocr_line' id='line_1_1' title="bbox 1500 267 2460 359; baseline 0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 1500 273 1541 348; x_wconf 79' lang='lat'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 1651 267 1895 359; x_wconf 53' lang='lat' dir='ltr'><strong>*CA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1952 295 2027 350; x_wconf 57' lang='grc' dir='ltr'><strong>τι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2110 272 2460 354; x_wconf 67' lang='grc' dir='ltr'><strong>ΧῊῙΙ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1011 273 1536 360; baseline 0.011 -6"><span class='ocrx_word' id='word_1_5' title='bbox 1011 310 1014 313; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1099 273 1416 354; x_wconf 56' lang='lat' dir='ltr'><strong>um..</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1506 353 1536 360; x_wconf 77' lang='grc'><strong>,.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2548 4113 2754 4176">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2548 4113 2754 4176">
+     <span class='ocr_line' id='line_1_3' title="bbox 2548 4113 2754 4176; baseline -0.019 -19"><span class='ocrx_word' id='word_1_8' title='bbox 2548 4113 2754 4176; x_wconf 46' lang='lat' dir='ltr'><strong>aaz</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2831 197 3108 380">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2831 197 3108 380">
+     <span class='ocr_line' id='line_1_4' title="bbox 2831 197 3108 380; baseline 0 -181"><span class='ocrx_word' id='word_1_9' title='bbox 2831 197 2838 199; x_wconf 28' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2948 277 3108 380; x_wconf 18' lang='lat'><strong>&#39;¹89</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
